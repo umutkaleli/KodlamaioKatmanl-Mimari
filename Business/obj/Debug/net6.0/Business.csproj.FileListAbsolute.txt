@@ -1,0 +1,17 @@
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/Business.deps.json
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/Business.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/Business.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.csproj.AssemblyReference.cache
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.AssemblyInfoInputs.cache
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.AssemblyInfo.cs
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.csproj.CoreCompileInputs.cache
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/refint/Business.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/ref/Business.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/DataAccess.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/Entities.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/DataAccess.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/bin/Debug/net6.0/Entities.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/Business/obj/Debug/net6.0/Business.csproj.CopyComplete

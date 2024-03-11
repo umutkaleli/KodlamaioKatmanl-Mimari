@@ -1,0 +1,15 @@
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/bin/Debug/net6.0/Entities.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/bin/Debug/net6.0/Entities.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CopyComplete
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/refint/DataAccess.dll
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/Users/umutkalelioglu/RiderProjects/KodlamaioSimulation/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll
